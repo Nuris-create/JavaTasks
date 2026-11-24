@@ -22,5 +22,6 @@ public class Task08 {
             System.out.println();
 
         }
+        return 0;
     }
 }
